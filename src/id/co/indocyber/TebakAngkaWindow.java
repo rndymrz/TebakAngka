@@ -132,6 +132,7 @@ public class TebakAngkaWindow extends javax.swing.JFrame {
     }//GEN-LAST:event_checkAngkaButtonActionPerformed
 
     int angkaSoal;
+    int blabla;
 
     private int generateAngka() {
         double random = Math.random() * 100;
